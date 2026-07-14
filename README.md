@@ -65,3 +65,9 @@ Then ask Claude Code to design or review a UI / page / LP — the skill activate
 ## License
 
 [Apache License 2.0](./LICENSE)
+
+---
+
+## Related
+
+- [claude-config-lifeboat](https://github.com/kai-chop/claude-config-lifeboat) — secret-safe disaster-recovery backup for your Claude Code `~/.claude` (whitelist backup, fail-safe staleness nudge, recovery routing).
